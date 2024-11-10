@@ -1,6 +1,6 @@
 # 📱 Dự Án Website Bán Điện Thoại Online
 
-![Logo](https://your-image-url.com/logo.png)
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc-0tNBnK61SssEqWjsuEXA_wXbys_h5Hy1A&s)
 
 Dự án **Website Bán Điện Thoại Online** là một nền tảng thương mại điện tử giúp người dùng có thể mua sắm các dòng điện thoại di động một cách nhanh chóng và tiện lợi. Website cung cấp đầy đủ thông tin về các sản phẩm, hỗ trợ giỏ hàng, thanh toán online, và các chương trình khuyến mãi hấp dẫn.
 
