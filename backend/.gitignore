@@ -1,0 +1,10 @@
+# Bỏ qua thư mục node_modules
+node_modules/
+
+# Bỏ qua tệp tạm hoặc tệp hệ thống
+*.log
+*.tmp
+.DS_Store
+
+# Bỏ qua các tệp cụ thể khác
+.env
